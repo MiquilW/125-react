@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/125-react/static/css/main.ecad7249.css",
-    "main.js": "/125-react/static/js/main.f1000e79.js",
+    "main.css": "/125-react/static/css/main.01c914b1.css",
+    "main.js": "/125-react/static/js/main.57cf2f8f.js",
     "static/js/453.5adc98e2.chunk.js": "/125-react/static/js/453.5adc98e2.chunk.js",
     "static/media/logo.svg": "/125-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/125-react/index.html",
-    "main.ecad7249.css.map": "/125-react/static/css/main.ecad7249.css.map",
-    "main.f1000e79.js.map": "/125-react/static/js/main.f1000e79.js.map",
+    "main.01c914b1.css.map": "/125-react/static/css/main.01c914b1.css.map",
+    "main.57cf2f8f.js.map": "/125-react/static/js/main.57cf2f8f.js.map",
     "453.5adc98e2.chunk.js.map": "/125-react/static/js/453.5adc98e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ecad7249.css",
-    "static/js/main.f1000e79.js"
+    "static/css/main.01c914b1.css",
+    "static/js/main.57cf2f8f.js"
   ]
 }
